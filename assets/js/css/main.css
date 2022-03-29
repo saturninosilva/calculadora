@@ -1,0 +1,16 @@
+#form-calculadora{
+    width: 180px;
+
+}
+form div{
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+}
+form div button, input{
+    width: 100px;
+    margin-bottom: 4px;    
+}
+form div input{
+    margin-bottom: 8px;
+}
